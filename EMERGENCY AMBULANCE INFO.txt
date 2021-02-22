@@ -1,0 +1,16 @@
+Ambulance-001
+Phone:017890182733
+in service (8:00am  to  10:00 pm)
+Email:ambulance-001@emergency.hms.ha
+
+Ambulance-002
+Phone:017890182733
+in service (8:00am  to  10:00 pm)
+Email:ambulance-002@emergency.hms.ha
+
+Ambulance-003
+Phone:017890182733
+in service (8:00am  to  10:00 pm)
+Email:ambulance-003@emergency.hms.ha
+
+This is an EMERGENCY transcript of the 10-minute 999 call.So hurry up call 999 and  Make sure your address again.
